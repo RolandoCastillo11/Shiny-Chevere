@@ -1,0 +1,274 @@
+FormID,Fecha,Edad,Género,Ocupación,Ingresos,Bar Favorito,Máximo Gastar,Frecuencia Visita,Preferencia,Estado civil,Ocasiones,Cupón,Canje Cupón,Fecha Canje,Total Gastado
+1,2020-05-24,31,Hombre,Empleado,20000,Yankee,0,Raramente,Precio,Casado,Otro,43975310-USO10,Si,2020-06-14,720.0
+2,2020-05-23,21,Mujer,Emp + Est,3000,47 pub,750,Frecuente,Menu,Soltero,Amigos,43974217-ULS09,No,,
+3,2020-05-21,28,Mujer,Empleado,10000,Irish,300,Raramente,Lugar,Casado,Cumpleaños,43972183-USC35,No,,
+4,2020-05-23,27,Hombre,Estudiante,0,Irish,30,Raramente,Musica,Soltero,Amigos,43974173-ULS53,Si,2020-06-13,30.0
+5,2020-05-06,19,Mujer,Estudiante,0,Chevere,30,Raramente,Precio,Soltero,Cumpleaños,43957193-ULC70,Si,2020-05-30,60.0
+6,2020-05-06,19,Mujer,Estudiante,0,La Station,180,Frecuente,Precio,Soltero,Eventos,43957191-ULE55,No,,
+7,2020-05-25,21,Hombre,Empleado,8000,Chevere,400,Frecuente,Musica,Soltero,Eventos,43976214-ULE37,Si,2020-06-18,370.0
+8,2020-05-15,19,Hombre,Emp + Est,3000,47 pub,400,Frecuente,Precio,Soltero,Amigos,43966194-ULS62,Si,2020-05-21,700.0
+9,2020-05-15,27,Mujer,Emp + Est,3000,La Station,100,Frecuente,Musica,Soltero,Eventos,43966171-ULE87,No,,
+10,2020-05-15,21,Mujer,Emp + Est,3000,Cantaloupe,550,Frecuente,Musica,Casado,Amigos,43966215-USS86,No,,
+11,2020-05-12,25,Hombre,Emp + Est,5000,Irish,100,Regular,Menu,Casado,Eventos,43963201-USE99,Si,2020-06-07,710.0
+12,2020-05-16,28,Mujer,Empleado,8000,Irish,400,Regular,Lugar,Casado,Amigos,43967184-USS97,No,,
+13,2020-05-19,28,Hombre,Empleado,15000,Cantaloupe,600,Frecuente,Lugar,Casado,Amigos,43970286-USS87,No,,
+14,2020-05-04,28,Mujer,Empleado,3000,Paparazzi,140,Regular,Lugar,Soltero,Eventos,43955181-ULE38,No,,
+15,2020-05-23,28,Hombre,Emp + Est,6000,La Station,480,Frecuente,Precio,Soltero,Amigos,43974184-ULS22,Si,2020-06-20,30.0
+16,2020-05-31,19,Mujer,Estudiante,0,Paparazzi,100,Raramente,Precio,Casado,Amigos,43982191-USS20,Si,2020-05-30,0.0
+17,2020-05-26,20,Mujer,Estudiante,0,Yankee,40,Regular,Precio,Soltero,Amigos,43977204-ULS20,Si,2020-05-29,0.0
+18,2020-05-01,20,Mujer,Empleado,8000,Chevere,60,Regular,Musica,Casado,Eventos,43952206-USE47,No,,
+19,2020-05-28,28,Mujer,Estudiante,0,Chevere,150,Frecuente,Precio,Soltero,Amigos,43979181-ULS25,No,,
+20,2020-05-27,32,Mujer,Empleado,15000,Cantaloupe,800,Frecuente,Musica,Casado,Amigos,43978328-USS53,No,,
+21,2020-05-21,34,Mujer,Empleado,14000,Paparazzi,300,Regular,Musica,Casado,Amigos,43972343-USS15,No,,
+22,2020-05-06,30,Mujer,Empleado,15000,Yankee,3000,Regular,Lugar,Casado,Eventos,43957303-USE70,No,,
+23,2020-05-13,20,Mujer,Empleado,10000,Chevere,100,Regular,Musica,Soltero,Cumpleaños,43964201-ULC82,No,,
+24,2020-05-16,27,Mujer,Empleado,8000,Paparazzi,120,Regular,Musica,Soltero,Amigos,43967171-ULS55,No,,
+25,2020-05-19,19,Mujer,Emp + Est,1000,La Station,120,Raramente,Lugar,Soltero,Eventos,43970191-ULE02,No,,
+26,2020-05-06,21,Mujer,Emp + Est,18000,Cantaloupe,120,Frecuente,Lugar,Casado,Amigos,43957214-USS60,No,,
+27,2020-05-19,22,Mujer,Estudiante,0,Cantaloupe,270,Frecuente,Precio,Casado,Amigos,43970222-USS58,Si,2020-05-28,30.0
+28,2020-05-02,19,Mujer,Emp + Est,10000,47 pub,180,Raramente,Musica,Soltero,Eventos,43953191-ULE69,No,,
+29,2020-05-26,19,Hombre,Empleado,12000,Cantaloupe,80,Frecuente,Menu,Casado,Eventos,43977198-USE32,Si,2020-05-21,80.0
+30,2020-05-23,19,Mujer,Estudiante,0,Irish,100,Regular,Precio,Soltero,Amigos,43974191-ULS40,No,,
+31,2020-05-26,26,Mujer,Empleado,17000,La Station,750,Raramente,Musica,Casado,Amigos,43977267-USS93,No,,
+32,2020-05-26,20,Mujer,Emp + Est,10000,La Station,50,Raramente,Lugar,Soltero,Eventos,43977205-ULE96,No,,
+33,2020-05-04,18,Hombre,Emp + Est,15000,La Station,100,Regular,Precio,Soltero,Amigos,43955181-ULS95,No,,
+34,2020-05-05,36,Mujer,Empleado,12000,47 pub,1200,Regular,Lugar,Casado,Eventos,43956361-USE22,No,,
+35,2020-05-25,22,Mujer,Empleado,12000,47 pub,50,Frecuente,Lugar,Casado,Amigos,43976225-USS20,No,,
+36,2020-05-25,29,Hombre,Empleado,10000,La Station,360,Frecuente,Menu,Soltero,Amigos,43976193-ULS87,No,,
+37,2020-05-06,30,Mujer,Empleado,15000,Yankee,3000,Regular,Lugar,Casado,Eventos,43957303-USE79,No,,
+38,2020-05-16,18,Mujer,Empleado,8000,Irish,400,Raramente,Lugar,Soltero,Amigos,43967184-ULS37,No,,
+39,2020-05-21,34,Mujer,Empleado,14000,Paparazzi,300,Raramente,Musica,Casado,Amigos,43972343-USS38,No,,
+40,2020-05-04,18,Mujer,Emp + Est,4000,Irish,120,Frecuente,Menu,Casado,Amigos,43955181-ESS12,No,,
+41,2020-05-17,23,Hombre,Emp + Est,10000,Cantaloupe,150,Regular,Lugar,Soltero,Amigos,43968237-ULS84,Si,2020-06-07,770.0
+42,2020-05-24,41,Mujer,Empleado,10000,47 pub,500,Regular,Musica,Casado,Amigos,43975415-USS05,No,,
+43,2020-05-19,28,Hombre,Empleado,15000,Cantaloupe,600,Frecuente,Lugar,Casado,Amigos,43970286-USS29,No,,
+44,2020-05-17,23,Hombre,Emp + Est,10000,Cantaloupe,150,Raramente,Precio,Soltero,Eventos,43968237-ULE36,No,,
+45,2020-05-26,26,Mujer,Empleado,17000,La Station,750,Regular,Musica,Soltero,Amigos,43977267-ULS53,No,,
+46,2020-05-29,21,Hombre,Estudiante,0,Cantaloupe,20,Regular,Menu,Soltero,Amigos,43980212-ULS76,Si,2020-05-14,30.0
+47,2020-05-07,18,Mujer,Empleado,10000,47 pub,280,Regular,Musica,Soltero,Eventos,43958182-ULE53,No,,
+48,2020-05-15,21,Hombre,Empleado,10000,Irish,2500,Regular,Lugar,Soltero,Amigos,43966212-ULS42,Si,2020-06-03,310.0
+49,2020-05-07,18,Mujer,Empleado,10000,47 pub,280,Regular,Musica,Soltero,Amigos,43958182-ULS33,No,,
+50,2020-05-24,41,Mujer,Empleado,10000,47 pub,500,Raramente,Musica,Casado,Amigos,43975415-USS85,No,,
+51,2020-05-23,29,Hombre,Emp + Est,8000,Chevere,200,Regular,Precio,Soltero,Amigos,43974198-ULS94,No,,
+52,2020-05-10,29,Hombre,Estudiante,0,Yankee,60,Regular,Precio,Soltero,Amigos,43961196-ULS55,Si,2020-06-01,30.0
+53,2020-05-06,29,Mujer,Empleado,10000,Cantaloupe,210,Regular,Lugar,Soltero,Amigos,43957192-RLS64,No,,
+54,2020-05-24,20,Mujer,Empleado,7000,Chevere,600,Regular,Musica,Casado,Cumpleaños,43975206-USC75,No,,
+55,2020-05-14,18,Mujer,Estudiante,0,Irish,90,Frecuente,Precio,Soltero,Amigos,43965189-ULS28,No,,
+56,2020-05-26,29,Hombre,Empleado,12000,Cantaloupe,80,Frecuente,Menu,Soltero,Amigos,43977198-ULS31,No,,
+57,2020-05-24,18,Hombre,Estudiante,0,Cantaloupe,140,Frecuente,Precio,Soltero,Eventos,43975185-ULE48,No,,
+58,2020-05-02,29,Mujer,Emp + Est,13000,Irish,200,Regular,Precio,Soltero,Eventos,43953192-RLE92,No,,
+59,2020-05-05,39,Hombre,Empleado,15000,La Station,600,Frecuente,Lugar,Casado,Amigos,43956396-USS56,Si,2020-05-30,840.0
+60,2020-05-17,20,Mujer,Estudiante,0,Paparazzi,100,Frecuente,Precio,Soltero,Amigos,43968209-ULS87,Si,2020-05-29,30.0
+61,2020-05-09,35,Hombre,Empleado,13000,47 pub,200,Regular,Lugar,Casado,Amigos,43960352-USS74,No,,
+62,2020-05-14,18,Mujer,Emp + Est,3500,La Station,400,Regular,Musica,Soltero,Eventos,43965184-ULE93,No,,
+63,2020-05-16,42,Hombre,Dueño negocio,85000,Irish,2500,Raramente,Menu,Casado,Eventos,43967422-USE00,Si,2020-06-05,790.0
+64,2020-05-14,21,Mujer,Emp + Est,3000,La Station,300,Frecuente,Lugar,Soltero,Amigos,43965216-ULS73,No,,
+65,2020-05-01,31,Mujer,Dueño negocio,20000,Chevere,1000,Raramente,Musica,Casado,Eventos,43952311-USS83,No,,
+66,2020-05-03,20,Mujer,Empleado,10000,Cantaloupe,120,Frecuente,Lugar,Soltero,Amigos,43954201-ULS00,No,,
+67,2020-05-11,28,Hombre,Dueño negocio,25000,Cantaloupe,1000,Regular,Lugar,Soltero,Eventos,43962281-ULS70,No,,
+68,2020-05-13,29,Hombre,Empleado,15000,La Station,600,Raramente,Lugar,Soltero,Amigos,43964296-ULS65,Si,2020-06-03,790.0
+69,2020-05-02,29,Mujer,Emp + Est,13000,Irish,200,Regular,Precio,Soltero,Amigos,43953192-RLS51,No,,
+70,2020-05-06,21,Mujer,Emp + Est,18000,Cantaloupe,420,Regular,Lugar,Soltero,Amigos,43957214-ULS05,Si,2020-06-01,250.0
+71,2020-05-25,22,Mujer,Empleado,12000,47 pub,50,Frecuente,Lugar,Soltero,Amigos,43976225-ULS23,No,,
+72,2020-05-16,18,Mujer,Empleado,8000,Irish,400,Regular,Lugar,Soltero,Amigos,43967184-ULS10,No,,
+73,2020-05-22,50,Hombre,Empleado,100000,47 pub,900,Raramente,Lugar,Casado,Cumpleaños,43973509-USC04,Si,2020-06-09,270.0
+74,2020-05-15,29,Hombre,Empleado,9000,La Station,180,Regular,Menu,Soltero,Amigos,43966191-ULS11,No,,
+75,2020-05-08,21,Mujer,Empleado,5000,Paparazzi,90,Regular,Lugar,Soltero,Amigos,43959209-ULS54,No,,
+76,2020-05-20,22,Hombre,Estudiante,0,Cantaloupe,490,Frecuente,Precio,Soltero,Amigos,43971204-ULS06,Si,2020-05-10,390.0
+77,2020-05-28,18,Hombre,Empleado,8000,Paparazzi,1800,Regular,Lugar,Soltero,Amigos,43979181-ULS85,Si,2020-05-27,940.0
+78,2020-05-29,21,Mujer,Emp + Est,2000,47 pub,450,Raramente,Lugar,Soltero,Amigos,43980214-ULS40,Si,2020-06-26,20.0
+79,2020-05-04,18,Hombre,Emp + Est,15000,La Station,100,Raramente,Precio,Soltero,Cumpleaños,43955181-ULC31,Si,2020-05-27,510.0
+80,2020-05-13,29,Mujer,Emp + Est,8000,Irish,360,Frecuente,Precio,Soltero,Amigos,43964193-RLS36,No,,
+81,2020-05-06,29,Mujer,Empleado,10000,Cantaloupe,210,Regular,Lugar,Soltero,Amigos,43957192-RLS31,No,,
+82,2020-05-15,21,Hombre,Empleado,10000,Irish,2500,Raramente,Menu,Soltero,Amigos,43966212-ULS84,Si,2020-05-13,910.0
+83,2020-05-14,18,Mujer,Estudiante,0,47 pub,120,Regular,Precio,Soltero,Amigos,43965181-ULS03,No,,
+84,2020-05-31,27,Mujer,Empleado,2000,Paparazzi,720,Regular,Musica,Soltero,Eventos,43982177-ULE48,No,,
+85,2020-05-01,18,Mujer,Estudiante,0,Chevere,1000,Frecuente,Precio,Soltero,Eventos,43952188-ULE31,No,,
+86,2020-05-25,29,Hombre,Empleado,9000,Irish,200,Frecuente,Lugar,Soltero,Cumpleaños,43976192-ULC81,Si,2020-06-09,30.0
+87,2020-05-26,21,Mujer,Empleado,7000,Chevere,60,Regular,Musica,Soltero,Cumpleaños,43977196-ULC70,No,,
+88,2020-05-06,22,Mujer,Empleado,10000,Cantaloupe,210,Regular,Lugar,Soltero,Amigos,43957192-RLS83,No,,
+89,2020-05-07,23,Mujer,Estudiante,0,Chevere,0,Regular,Precio,Soltero,Amigos,43958190-RLS72,Si,2020-05-28,30.0
+90,2020-05-11,33,Hombre,Empleado,15000,Irish,540,Frecuente,Lugar,Casado,Amigos,43962335-USS44,No,,
+91,2020-05-27,23,Hombre,Empleado,6000,Chevere,80,Regular,Lugar,Soltero,Eventos,43978208-ULE43,Si,2020-06-07,770.0
+92,2020-05-11,21,Hombre,Empleado,12000,Chevere,250,Regular,Musica,Soltero,Eventos,43962212-ULE35,Si,2020-05-12,390.0
+93,2020-05-09,35,Hombre,Empleado,13000,47 pub,200,Regular,Menu,Casado,Amigos,43960352-USS08,No,,
+94,2020-05-10,18,Mujer,Estudiante,0,Irish,105,Frecuente,Precio,Soltero,Amigos,43961181-ULS96,Si,2020-05-30,60.0
+95,2020-05-24,31,Hombre,Dueño negocio,40000,Paparazzi,300,Regular,Lugar,Casado,Amigos,43975313-USS40,No,,
+96,2020-05-26,18,Mujer,Emp + Est,3000,Cantaloupe,270,Regular,Precio,Soltero,Eventos,43977182-RLE67,No,,
+97,2020-05-29,21,Mujer,Empleado,12000,Cantaloupe,200,Regular,Musica,Soltero,Amigos,43980212-ULS97,No,,
+98,2020-05-22,24,Hombre,Emp + Est,6000,Irish,50,Regular,Musica,Casado,Amigos,43973205-USS76,Si,2020-06-03,620.0
+99,2020-05-25,24,Hombre,Empleado,10000,La Station,360,Frecuente,Lugar,Casado,Amigos,43976193-USS98,Si,2020-06-06,160.0
+100,2020-05-07,18,Hombre,Emp + Est,2500,La Station,105,Regular,Menu,Soltero,Eventos,43958181-ELE57,Si,2020-05-27,870.0
+101,2020-05-01,25,Mujer,Empleado,8000,Chevere,60,Regular,Musica,Soltero,Eventos,43952206-ULE88,No,,
+102,2020-05-14,18,Mujer,Emp + Est,2000,Paparazzi,240,Frecuente,Lugar,Casado,Eventos,43965182-USE70,No,,
+103,2020-05-17,25,Mujer,Empleado,7000,Paparazzi,720,Frecuente,Musica,Soltero,Cumpleaños,43968197-ULC36,No,,
+104,2020-05-26,18,Mujer,Empleado,5000,Chevere,0,Regular,Musica,Soltero,Otro,43977180-ULO68,No,,
+105,2020-05-29,21,Mujer,Empleado,12000,Cantaloupe,200,Regular,Musica,Casado,Amigos,43980212-USS16,No,,
+106,2020-05-14,21,Mujer,Empleado,8000,47 pub,150,Regular,Lugar,Casado,Eventos,43965211-USE02,No,,
+107,2020-05-28,40,Hombre,Dueño negocio,90000,47 pub,1500,Raramente,Precio,Soltero,Cumpleaños,43979401-ULC98,Si,2020-06-16,110.0
+108,2020-05-22,21,Mujer,Estudiante,0,Cantaloupe,80,Raramente,Precio,Soltero,Eventos,43973214-ULE69,Si,2020-05-28,100.0
+109,2020-05-01,23,Hombre,Emp + Est,5500,47 pub,150,Frecuente,Precio,Casado,Amigos,43952231-USS36,Si,2020-05-30,220.0
+110,2020-05-13,21,Mujer,Emp + Est,8000,Irish,360,Frecuente,Precio,Soltero,Amigos,43964193-RLS60,No,,
+111,2020-05-11,33,Hombre,Empleado,15000,Irish,540,Frecuente,Musica,Casado,Amigos,43962335-USS57,Si,2020-06-06,970.0
+112,2020-05-09,20,Mujer,Empleado,6000,47 pub,200,Regular,Lugar,Soltero,Eventos,43960202-ULE37,No,,
+113,2020-05-27,32,Mujer,Empleado,15000,Cantaloupe,800,Regular,Musica,Casado,Amigos,43978328-USS04,No,,
+114,2020-05-23,22,Hombre,Emp + Est,8000,Chevere,100,Regular,Musica,Soltero,Amigos,43974198-ULS76,Si,2020-05-10,990.0
+115,2020-05-04,23,Mujer,Empleado,5000,Chevere,80,Regular,Musica,Soltero,Cumpleaños,43955198-ULC58,No,,
+116,2020-05-20,20,Mujer,Empleado,7000,47 pub,150,Regular,Lugar,Soltero,Amigos,43971201-ULS25,No,,
+117,2020-05-25,20,Mujer,Emp + Est,7000,Irish,250,Frecuente,Musica,Soltero,Amigos,43976204-ULS67,No,,
+118,2020-05-05,18,Mujer,Emp + Est,5000,Cantaloupe,280,Regular,Musica,Soltero,Amigos,43956184-ULS39,No,,
+119,2020-05-15,18,Hombre,Estudiante,0,Paparazzi,35,Raramente,Precio,Soltero,Otro,43966183-RLO55,Si,2020-05-27,0.0
+120,2020-05-03,20,Mujer,Empleado,10000,Cantaloupe,120,Frecuente,Lugar,Soltero,Cumpleaños,43954201-ULC72,No,,
+121,2020-05-18,24,Hombre,Empleado,5500,La Station,420,Frecuente,Menu,Soltero,Cumpleaños,43969194-ULC87,Si,2020-06-06,950.0
+122,2020-05-10,37,Mujer,Empleado,12000,Chevere,400,Raramente,Musica,Casado,Cumpleaños,43961374-USC22,No,,
+123,2020-05-25,21,Hombre,Empleado,8000,Paparazzi,150,Regular,Lugar,Soltero,Amigos,43976201-ULS77,Si,2020-06-13,460.0
+124,2020-05-13,18,Mujer,Emp + Est,8000,Chevere,180,Regular,Musica,Soltero,Cumpleaños,43964181-ULC22,No,,
+125,2020-05-25,22,Hombre,Empleado,8000,Paparazzi,150,Regular,Lugar,Soltero,Amigos,43976201-ULS06,Si,2020-05-08,490.0
+126,2020-05-25,22,Mujer,Empleado,12000,47 pub,50,Frecuente,Lugar,Soltero,Amigos,43976225-ULS05,No,,
+127,2020-05-02,27,Hombre,Estudiante,0,La Station,180,Regular,Precio,Soltero,Cumpleaños,43953171-ULC79,No,,
+128,2020-05-24,29,Mujer,Empleado,4000,Chevere,50,Regular,Musica,Casado,Amigos,43975295-USS82,No,,
+129,2020-05-27,18,Hombre,Empleado,9000,La Station,750,Raramente,Lugar,Casado,Amigos,43978187-USS50,Si,2020-06-05,740.0
+130,2020-05-05,23,Mujer,Emp + Est,8000,Chevere,300,Regular,Musica,Soltero,Amigos,43956208-ULS42,No,,
+131,2020-05-21,18,Mujer,Empleado,10000,Irish,300,Regular,Lugar,Soltero,Cumpleaños,43972183-ULC26,No,,
+132,2020-05-13,38,Hombre,Empleado,4000,Irish,100,Regular,Musica,Casado,Cumpleaños,43964381-USC26,Si,2020-06-11,350.0
+133,2020-05-21,18,Mujer,Empleado,10000,Irish,300,Regular,Lugar,Casado,Cumpleaños,43972183-USC26,No,,
+134,2020-05-27,18,Hombre,Empleado,9000,La Station,750,Regular,Musica,Casado,Cumpleaños,43978187-USC13,Si,2020-06-26,640.0
+135,2020-05-28,18,Hombre,Empleado,8000,Paparazzi,1800,Regular,Menu,Soltero,Eventos,43979181-ULE72,Si,2020-05-27,890.0
+136,2020-05-15,25,Hombre,Empleado,9000,La Station,180,Regular,Lugar,Soltero,Amigos,43966191-ULS72,No,,
+137,2020-05-03,24,Mujer,Empleado,10000,Cantaloupe,120,Frecuente,Lugar,Casado,Cumpleaños,43954201-USC17,Si,2020-06-05,360.0
+138,2020-05-10,37,Mujer,Empleado,12000,Chevere,400,Regular,Musica,Casado,Amigos,43961374-USS87,No,,
+139,2020-05-13,18,Mujer,Emp + Est,8000,Chevere,180,Regular,Musica,Soltero,Amigos,43964181-ULS11,No,,
+140,2020-05-06,30,Mujer,Empleado,15000,Yankee,3000,Raramente,Lugar,Casado,Amigos,43957303-USS43,Si,2020-06-04,610.0
+141,2020-05-10,37,Mujer,Empleado,12000,Chevere,400,Regular,Musica,Casado,Amigos,43961374-USS69,No,,
+142,2020-05-07,18,Mujer,Empleado,10000,47 pub,280,Regular,Musica,Soltero,Eventos,43958182-ULE73,No,,
+143,2020-05-25,27,Mujer,Estudiante,0,Paparazzi,120,Frecuente,Precio,Soltero,Cumpleaños,43976171-ULC60,Si,2020-05-27,170.0
+144,2020-05-12,25,Hombre,Empleado,10000,Irish,300,Raramente,Lugar,Soltero,Amigos,43963203-ULS31,No,,
+145,2020-05-08,18,Mujer,Emp + Est,3000,Paparazzi,200,Frecuente,Lugar,Casado,Amigos,43959182-USS67,No,,
+146,2020-05-14,18,Mujer,Emp + Est,500,Irish,200,Frecuente,Musica,Soltero,Cumpleaños,43965182-ULC92,No,,
+147,2020-05-06,29,Hombre,Empleado,20000,Yankee,250,Regular,Lugar,Casado,Eventos,43957292-USE94,No,,
+148,2020-05-03,39,Hombre,Empleado,38400,Paparazzi,800,Raramente,Menu,Casado,Amigos,43954398-ESS43,Si,2020-05-31,920.0
+149,2020-05-17,23,Hombre,Emp + Est,10000,Cantaloupe,150,Regular,Precio,Soltero,Eventos,43968237-ULE56,No,,
+150,2020-05-26,26,Mujer,Empleado,17000,La Station,750,Regular,Musica,Soltero,Amigos,43977267-ULS72,Si,2020-06-15,750.0
+151,2020-05-20,26,Mujer,Estudiante,0,Cantaloupe,200,Regular,Precio,Soltero,Amigos,43971162-ULS99,No,,
+152,2020-05-24,21,Mujer,Emp + Est,4000,Irish,180,Regular,Lugar,Casado,Eventos,43975191-USE89,No,,
+153,2020-05-02,22,Mujer,Emp + Est,13000,Irish,200,Raramente,Precio,Casado,Eventos,43953192-RSE43,No,,
+154,2020-05-13,20,Mujer,Empleado,10000,Chevere,100,Regular,Musica,Soltero,Cumpleaños,43964201-ULC32,No,,
+155,2020-05-05,39,Hombre,Empleado,15000,La Station,600,Frecuente,Musica,Casado,Amigos,43956396-USS34,No,,
+156,2020-05-21,39,Hombre,Dueño negocio,95000,La Station,500,Regular,Precio,Casado,Cumpleaños,43972395-RSC20,Si,2020-06-07,430.0
+157,2020-05-04,18,Hombre,Emp + Est,5000,47 pub,260,Regular,Musica,Soltero,Amigos,43955185-ULS02,Si,2020-05-26,300.0
+158,2020-05-15,23,Mujer,Emp + Est,5000,47 pub,280,Regular,Musica,Soltero,Amigos,43966192-ULS43,No,,
+159,2020-05-04,18,Hombre,Emp + Est,15000,La Station,100,Regular,Menu,Soltero,Amigos,43955181-ULS02,Si,2020-06-09,560.0
+160,2020-05-14,20,Mujer,Estudiante,0,Chevere,70,Regular,Precio,Soltero,Eventos,43965207-ULE17,Si,2020-05-28,130.0
+161,2020-05-25,20,Hombre,Emp + Est,4000,La Station,210,Regular,Lugar,Soltero,Amigos,43976202-ULS77,Si,2020-06-13,30.0
+162,2020-05-25,24,Hombre,Empleado,9000,Irish,200,Frecuente,Lugar,Soltero,Eventos,43976192-ULE86,Si,2020-05-20,30.0
+163,2020-05-12,20,Hombre,Empleado,10000,Irish,300,Regular,Lugar,Soltero,Amigos,43963203-ULS43,Si,2020-06-08,0.0
+164,2020-05-25,18,Mujer,Emp + Est,7500,47 pub,300,Regular,Lugar,Soltero,Amigos,43976183-ULS48,No,,
+165,2020-05-25,25,Hombre,Empleado,10000,La Station,360,Frecuente,Lugar,Soltero,Eventos,43976193-ULE79,Si,2020-06-05,330.0
+166,2020-05-06,26,Hombre,Empleado,19000,Irish,600,Frecuente,Musica,Casado,Amigos,43957266-USS70,No,,
+167,2020-05-05,36,Mujer,Empleado,12000,47 pub,1200,Regular,Lugar,Casado,Amigos,43956361-USS44,No,,
+168,2020-05-25,21,Hombre,Empleado,8000,Chevere,400,Frecuente,Musica,Soltero,Amigos,43976214-ULS95,Si,2020-05-10,520.0
+169,2020-05-27,32,Mujer,Empleado,15000,Cantaloupe,800,Frecuente,Musica,Casado,Amigos,43978328-USS24,No,,
+170,2020-05-15,21,Hombre,Empleado,10000,Irish,2500,Regular,Musica,Casado,Amigos,43966212-USS73,Si,2020-06-15,500.0
+171,2020-05-19,18,Mujer,Empleado,7000,Cantaloupe,240,Frecuente,Menu,Soltero,Amigos,43970182-ELS21,No,,
+172,2020-05-13,29,Hombre,Empleado,15000,La Station,600,Regular,Musica,Casado,Amigos,43964296-USS74,No,,
+173,2020-05-11,21,Hombre,Empleado,12000,Chevere,250,Regular,Musica,Soltero,Eventos,43962212-ULE83,Si,2020-06-01,750.0
+174,2020-05-19,28,Hombre,Empleado,20000,Irish,750,Regular,Musica,Casado,Amigos,43970287-USS27,Si,2020-06-04,140.0
+175,2020-05-01,20,Mujer,Empleado,8000,Chevere,60,Regular,Musica,Soltero,Eventos,43952206-ULE79,No,,
+176,2020-05-11,18,Mujer,Estudiante,0,Cantaloupe,300,Frecuente,Precio,Soltero,Eventos,43962183-ULE56,No,,
+177,2020-05-25,19,Mujer,Emp + Est,3000,47 pub,300,Regular,Musica,Soltero,Eventos,43976193-ULE19,No,,
+178,2020-05-27,20,Mujer,Estudiante,0,La Station,0,Frecuente,Precio,Soltero,Amigos,43978200-ULS33,No,,
+179,2020-05-13,21,Mujer,Empleado,10000,Chevere,100,Raramente,Musica,Soltero,Cumpleaños,43964201-ULC67,No,,
+180,2020-05-13,19,Mujer,Emp + Est,8000,Irish,360,Frecuente,Precio,Soltero,Amigos,43964193-RLS74,No,,
+181,2020-05-15,19,Mujer,Emp + Est,2500,47 pub,200,Regular,Lugar,Soltero,Amigos,43966192-ULS73,No,,
+182,2020-05-06,19,Mujer,Estudiante,0,Irish,200,Raramente,Precio,Soltero,Cumpleaños,43957192-ULC03,No,,
+183,2020-05-28,18,Mujer,Emp + Est,5000,La Station,500,Regular,Lugar,Soltero,Amigos,43979185-ULS00,No,,
+184,2020-05-14,18,Mujer,Empleado,6000,La Station,240,Regular,Musica,Soltero,Cumpleaños,43965182-ULC99,No,,
+185,2020-05-11,33,Hombre,Empleado,15000,Irish,540,Frecuente,Menu,Casado,Amigos,43962335-USS00,No,,
+186,2020-05-25,22,Hombre,Empleado,8000,Paparazzi,150,Regular,Lugar,Casado,Amigos,43976201-USS38,Si,2020-06-11,340.0
+187,2020-05-30,18,Mujer,Estudiante,0,Paparazzi,120,Regular,Precio,Soltero,Amigos,43981181-ULS21,No,,
+188,2020-05-25,18,Hombre,Estudiante,0,La Station,140,Frecuente,Precio,Soltero,Eventos,43976185-ULE37,Si,2020-05-26,60.0
+189,2020-05-28,18,Mujer,Estudiante,0,Yankee,300,Frecuente,Precio,Soltero,Amigos,43979183-ULS67,Si,2020-05-30,30.0
+190,2020-05-24,19,Mujer,Estudiante,0,Chevere,300,Raramente,Precio,Soltero,Cumpleaños,43975193-ULC33,No,,
+191,2020-05-28,25,Hombre,Empleado,24000,47 pub,100,Regular,Lugar,Soltero,Eventos,43979251-ULE89,Si,2020-06-17,620.0
+192,2020-05-05,36,Mujer,Empleado,12000,47 pub,1200,Regular,Lugar,Casado,Amigos,43956361-USS63,No,,
+193,2020-05-24,41,Mujer,Empleado,10000,47 pub,500,Regular,Musica,Casado,Amigos,43975415-USS21,No,,
+194,2020-05-05,19,Hombre,Empleado,8000,Irish,800,Regular,Lugar,Soltero,Amigos,43956198-ULS72,Si,2020-05-20,30.0
+195,2020-05-22,23,Hombre,Empleado,6000,Cantaloupe,3500,Regular,Musica,Soltero,Eventos,43973203-ULE22,Si,2020-06-08,930.0
+196,2020-05-24,18,Mujer,Estudiante,0,Cantaloupe,140,Frecuente,Precio,Soltero,Amigos,43975181-ULS81,Si,2020-06-03,0.0
+197,2020-05-26,22,Hombre,Empleado,10000,47 pub,150,Regular,Musica,Soltero,Cumpleaños,43977221-ULC68,Si,2020-05-08,680.0
+198,2020-05-05,24,Mujer,Empleado,3000,Paparazzi,700,Frecuente,Lugar,Soltero,Cumpleaños,43956207-ULC86,No,,
+199,2020-05-28,21,Hombre,Estudiante,0,Irish,80,Raramente,Menu,Soltero,Amigos,43979198-ULS80,Si,2020-05-16,0.0
+200,2020-05-22,18,Mujer,Emp + Est,1000,47 pub,60,Regular,Lugar,Soltero,Amigos,43973186-ULS45,No,,
+201,2020-05-16,27,Mujer,Empleado,8000,Paparazzi,120,Regular,Musica,Soltero,Eventos,43967171-ULE28,Si,2020-06-02,780.0
+202,2020-05-11,21,Hombre,Empleado,12000,Chevere,250,Regular,Musica,Soltero,Amigos,43962212-ULS19,No,,
+203,2020-05-24,27,Hombre,Estudiante,0,47 pub,120,Raramente,Precio,Soltero,Amigos,43975171-ULS23,Si,2020-06-08,130.0
+204,2020-05-11,25,Mujer,Emp + Est,40,Paparazzi,600,Raramente,Lugar,Soltero,Amigos,43962206-ULS73,No,,
+205,2020-05-22,40,Hombre,Empleado,20000,Irish,320,Raramente,Lugar,Casado,Eventos,43973403-USE50,No,,
+206,2020-05-26,22,Mujer,Estudiante,0,Irish,120,Frecuente,Precio,Soltero,Eventos,43977197-ULE99,No,,
+207,2020-05-26,22,Hombre,Empleado,10000,47 pub,150,Regular,Lugar,Soltero,Cumpleaños,43977221-ULC49,Si,2020-05-06,240.0
+208,2020-05-25,23,Hombre,Empleado,9000,Irish,200,Frecuente,Lugar,Casado,Amigos,43976192-USS78,No,,
+209,2020-05-31,24,Hombre,Emp + Est,5000,Paparazzi,150,Frecuente,Musica,Soltero,Otro,43982191-ULO90,Si,2020-05-20,60.0
+210,2020-05-25,39,Mujer,Empleado,20000,Yankee,420,Raramente,Lugar,Casado,Cumpleaños,43976394-USC74,No,,
+211,2020-05-05,39,Hombre,Empleado,15000,La Station,600,Frecuente,Musica,Casado,Amigos,43956396-USS87,Si,2020-05-31,470.0
+212,2020-05-23,21,Mujer,Emp + Est,7000,Cantaloupe,120,Regular,Lugar,Casado,Amigos,43974211-USS93,No,,
+213,2020-05-29,21,Mujer,Empleado,12000,Cantaloupe,200,Raramente,Musica,Soltero,Eventos,43980212-ULE60,No,,
+214,2020-05-10,18,Hombre,Empleado,10000,Irish,360,Frecuente,Menu,Soltero,Eventos,43961183-ULE33,Si,2020-05-26,830.0
+215,2020-05-06,21,Mujer,Emp + Est,18000,Cantaloupe,420,Frecuente,Lugar,Casado,Amigos,43957214-USS98,Si,2020-06-02,310.0
+216,2020-05-07,25,Mujer,Estudiante,0,47 pub,200,Raramente,Precio,Soltero,Amigos,43958192-ULS65,Si,2020-05-28,0.0
+217,2020-05-14,21,Mujer,Empleado,8000,47 pub,150,Regular,Lugar,Soltero,Eventos,43965211-ULE31,Si,2020-06-08,530.0
+218,2020-05-25,19,Mujer,Estudiante,0,Yankee,120,Raramente,Precio,Soltero,Cumpleaños,43976191-ULC26,No,,
+219,2020-05-26,19,Hombre,Empleado,12000,Cantaloupe,80,Frecuente,Lugar,Soltero,Amigos,43977198-ULS30,Si,2020-05-20,60.0
+220,2020-05-17,18,Hombre,Empleado,9000,Chevere,0,Regular,Lugar,Soltero,Amigos,43968180-ULS91,Si,2020-05-26,550.0
+221,2020-05-12,20,Hombre,Empleado,10000,Irish,300,Regular,Lugar,Soltero,Amigos,43963203-ULS75,Si,2020-05-17,460.0
+222,2020-05-09,35,Hombre,Empleado,13000,47 pub,200,Raramente,Lugar,Casado,Eventos,43960352-USE41,No,,
+223,2020-05-02,19,Mujer,Emp + Est,10000,47 pub,180,Regular,Musica,Soltero,Amigos,43953191-ULS42,No,,
+224,2020-05-25,19,Hombre,Emp + Est,4000,Yankee,300,Frecuente,Musica,Soltero,Amigos,43976193-ULS02,Si,2020-06-20,1150.0
+225,2020-05-19,18,Hombre,Estudiante,0,Chevere,150,Frecuente,Precio,Soltero,Amigos,43970181-ULS64,Si,2020-05-25,60.0
+226,2020-05-26,20,Mujer,Emp + Est,10000,La Station,50,Regular,Lugar,Soltero,Eventos,43977205-ULE84,Si,2020-06-11,140.0
+227,2020-05-17,27,Hombre,Estudiante,0,47 pub,50,Raramente,Menu,Soltero,Amigos,43968175-ULS82,Si,2020-06-19,200.0
+228,2020-05-26,18,Mujer,Emp + Est,2000,Cantaloupe,560,Regular,Musica,Soltero,Eventos,43977185-ULE84,No,,
+229,2020-05-22,19,Mujer,Empleado,3000,47 pub,80,Frecuente,Musica,Soltero,Amigos,43973198-ULS65,Si,2020-06-09,600.0
+230,2020-05-06,26,Hombre,Empleado,19000,Irish,600,Frecuente,Musica,Casado,Amigos,43957266-USS86,No,,
+231,2020-05-07,29,Hombre,Empleado,20000,Cantaloupe,800,Regular,Musica,Casado,Eventos,43958298-USE32,No,,
+232,2020-05-08,21,Mujer,Emp + Est,5000,47 pub,180,Frecuente,Lugar,Soltero,Amigos,43959211-ULS35,No,,
+233,2020-05-24,18,Mujer,Empleado,6000,La Station,350,Regular,Lugar,Soltero,Amigos,43975183-ULS11,No,,
+234,2020-05-15,19,Hombre,Empleado,9000,La Station,180,Regular,Lugar,Soltero,Amigos,43966191-ULS63,Si,2020-06-19,520.0
+235,2020-05-05,19,Hombre,Empleado,8000,Irish,800,Regular,Lugar,Soltero,Amigos,43956198-ULS70,Si,2020-05-20,400.0
+236,2020-05-26,20,Mujer,Emp + Est,10000,La Station,50,Regular,Lugar,Soltero,Eventos,43977205-ULE94,No,,
+237,2020-05-13,18,Mujer,Emp + Est,8000,Chevere,180,Regular,Musica,Soltero,Cumpleaños,43964181-ULC40,Si,2020-06-17,890.0
+238,2020-05-16,27,Mujer,Empleado,8000,Paparazzi,120,Regular,Musica,Soltero,Amigos,43967171-ULS02,Si,2020-06-07,650.0
+239,2020-05-06,23,Hombre,Empleado,25000,Irish,450,Regular,Precio,Casado,Amigos,43957234-USS93,No,,
+240,2020-05-14,19,Hombre,Estudiante,0,Irish,50,Raramente,Precio,Casado,Otro,43965195-USO65,Si,2020-06-03,30.0
+241,2020-05-21,34,Mujer,Empleado,14000,Paparazzi,300,Regular,Musica,Soltero,Amigos,43972343-ULS34,Si,2020-06-15,70.0
+242,2020-05-27,18,Hombre,Empleado,9000,La Station,750,Regular,Musica,Soltero,Amigos,43978187-ULS59,Si,2020-05-25,260.0
+243,2020-05-13,29,Hombre,Empleado,15000,La Station,600,Regular,Musica,Casado,Amigos,43964296-USS63,No,,
+244,2020-05-29,26,Mujer,Estudiante,0,47 pub,200,Raramente,Lugar,Soltero,Cumpleaños,43980172-ULC76,Si,2020-05-27,90.0
+245,2020-05-31,21,Mujer,Emp + Est,6000,Cantaloupe,350,Regular,Lugar,Casado,Eventos,43982211-USE39,No,,
+246,2020-05-13,48,Mujer,Empleado,27000,Yankee,0,Raramente,Lugar,Casado,Otro,43964480-USO11,No,,
+247,2020-05-28,40,Hombre,Empleado,20000,Chevere,400,Regular,Menu,Casado,Amigos,43979404-USS42,No,,
+248,2020-05-10,18,Hombre,Empleado,10000,Irish,360,Frecuente,Lugar,Soltero,Eventos,43961183-ULE26,Si,2020-06-02,780.0
+249,2020-05-31,36,Hombre,Dueño negocio,20000,La Station,2000,Raramente,Musica,Casado,Eventos,43982362-USE99,No,,
+250,2020-05-14,21,Mujer,Empleado,8000,47 pub,150,Regular,Lugar,Soltero,Eventos,43965211-ULE77,No,,
+251,2020-05-28,18,Hombre,Empleado,8000,Paparazzi,1800,Regular,Precio,Soltero,Amigos,43979181-ULS43,Si,2020-05-24,220.0
+252,2020-05-21,26,Hombre,Empleado,5000,Paparazzi,40,Regular,Precio,Soltero,Eventos,43972174-ULE03,No,,
+253,2020-05-01,20,Hombre,Emp + Est,1000,Cantaloupe,550,Frecuente,Precio,Soltero,Amigos,43952207-ULS31,Si,2020-05-17,50.0
+254,2020-05-17,18,Hombre,Empleado,9000,Chevere,0,Regular,Musica,Soltero,Cumpleaños,43968180-ULC33,Si,2020-05-23,890.0
+255,2020-05-05,19,Hombre,Empleado,8000,Irish,800,Raramente,Musica,Soltero,Amigos,43956198-ULS20,Si,2020-05-19,1450.0
+256,2020-05-17,18,Mujer,Estudiante,0,47 pub,300,Regular,Lugar,Soltero,Amigos,43968183-ULS65,No,,
+257,2020-05-05,20,Mujer,Emp + Est,8000,Chevere,800,Regular,Musica,Soltero,Eventos,43956208-ULE95,No,,
+258,2020-05-06,29,Mujer,Empleado,30000,Chevere,500,Regular,Musica,Casado,Amigos,43957295-USS91,No,,
+259,2020-05-24,19,Hombre,Estudiante,0,La Station,120,Frecuente,Menu,Soltero,Eventos,43975191-ELE71,Si,2020-05-18,0.0
+260,2020-05-19,28,Hombre,Empleado,15000,Cantaloupe,600,Frecuente,Menu,Casado,Amigos,43970286-USS88,No,,
+261,2020-05-20,33,Mujer,Empleado,70000,Irish,1350,Raramente,Lugar,Casado,Amigos,43971331-USS27,Si,2020-06-04,80.0
+262,2020-05-10,18,Hombre,Empleado,10000,Irish,360,Frecuente,Lugar,Soltero,Amigos,43961183-ULS99,Si,2020-06-02,950.0
+263,2020-05-17,18,Hombre,Empleado,9000,Chevere,0,Raramente,Precio,Casado,Amigos,43968180-USS98,Si,2020-05-22,490.0
+264,2020-05-23,21,Hombre,Emp + Est,8000,Chevere,200,Raramente,Precio,Soltero,Amigos,43974198-ULS37,Si,2020-05-16,30.0
+265,2020-05-02,22,Mujer,Emp + Est,10000,47 pub,180,Regular,Musica,Soltero,Eventos,43953191-ULE64,No,,
+266,2020-05-06,26,Hombre,Empleado,19000,Irish,600,Regular,Musica,Casado,Amigos,43957266-USS35,Si,2020-05-31,890.0
+267,2020-05-05,20,Mujer,Emp + Est,8000,Chevere,500,Raramente,Musica,Casado,Eventos,43956208-USE07,Si,2020-06-01,470.0
+268,2020-05-26,22,Hombre,Empleado,10000,47 pub,150,Regular,Precio,Soltero,Cumpleaños,43977221-ULC16,Si,2020-05-05,310.0
+269,2020-05-16,23,Hombre,Emp + Est,2500,Chevere,480,Regular,Musica,Soltero,Amigos,43967194-ULS81,No,,
+270,2020-05-25,21,Hombre,Empleado,8000,Chevere,400,Frecuente,Musica,Soltero,Amigos,43976214-ULS50,No,,
+271,2020-05-09,24,Hombre,Estudiante,0,Cantaloupe,140,Regular,Precio,Casado,Amigos,43960194-RSS74,No,,
+272,2020-05-20,28,Mujer,Dueño negocio,30000,Paparazzi,1000,Raramente,Musica,Soltero,Otro,43971281-ULO71,Si,2020-06-02,270.0
+273,2020-05-09,20,Hombre,Emp + Est,5000,Chevere,100,Regular,Musica,Soltero,Amigos,43960201-ULS19,Si,2020-05-16,600.0

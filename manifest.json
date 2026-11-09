@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "locale": "Spanish_Mexico.1252",
+  "metadata": {
+    "appmode": "python-shiny",
+    "entrypoint": "app"
+  },
+  "python": {
+    "version": "3.11.0",
+    "package_manager": {
+      "name": "pip",
+      "version": "24.2",
+      "package_file": "requirements.txt"
+    }
+  },
+  "files": {
+    "requirements.txt": {
+      "checksum": "c9be75b225a554e2bd1203562bf658f9"
+    },
+    ".gitignore": {
+      "checksum": "f1a22aa83774577c19f762eedd25c8d3"
+    },
+    "README.md": {
+      "checksum": "c6f60912f8a7be0e423f6ce14c9803c6"
+    },
+    "app.py": {
+      "checksum": "496da1c1a1b9eca65133a24166eea247"
+    },
+    "chevere_datos.csv": {
+      "checksum": "d98e8f224397fc7db0538d2c75ee1393"
+    },
+    "logo_chevere.png": {
+      "checksum": "ca8389d82bc81a2cbf2043919aad40ba"
+    }
+  }
+}
